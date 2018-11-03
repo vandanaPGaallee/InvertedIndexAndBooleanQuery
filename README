@@ -1,0 +1,1 @@
+This repository consists of Java project which builds inverted index from the Lucene index generated from the PubMed corpus[1] and boolean query retrieval is implemented by two strategies: Term-at-a-time (TAAT) and Document-at-a-time.
